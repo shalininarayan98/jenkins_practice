@@ -12,7 +12,5 @@ def factorial(num):
         i += 1 
 
 
-num = int(input("Give number: "))
-print(factorial(num))
 
         
